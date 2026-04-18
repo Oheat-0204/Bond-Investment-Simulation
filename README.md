@@ -92,8 +92,22 @@ $$YTM = R(t, T) + Spread_{base} + Spread_{shock} + Liquidity_{penalty}$$
 
 ## 6. 예시
 
+<img src="https://github.com/user-attachments/assets/59f61f12-2f48-47b2-b1af-39f03ceabdaf" width="600" alt="S1">
+
+<img src="https://github.com/user-attachments/assets/fceaaeb7-96b1-41af-9da4-7bdfe08050cc" width="600" alt="S2(4.25y)">
+
+<img src="https://github.com/user-attachments/assets/156b6c40-0f63-4318-b007-c29697f34ec1" width="600" alt="IG">
+
+<img src="https://github.com/user-attachments/assets/17cc9db1-4e1d-4b0b-b602-40623f3bfa00" width="600" alt="AA">
 
 
+<img src="https://github.com/user-attachments/assets/aff12e10-34ec-42d0-a498-aedc5b751f60" width="600" alt="Term structure">
+
+<img src="https://github.com/user-attachments/assets/b023c413-413e-49a4-88ba-b7f1006940a7" width="600" alt="Portfolio Value">
+
+<img src="https://github.com/user-attachments/assets/a2041888-5024-4d44-93dd-7a39d5cc42c4" width="600" alt="Duration">
+
+<img src="https://github.com/user-attachments/assets/d5d5a0d6-6d40-4ad5-b8dd-05481176b2e6" width="600" alt="Convexity">
 ---
 
 ## 7. 빌드 및 실행 (Build)
