@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.user
+*.aps
+*.pdb
+*.intermediate.obj
+*.ilk
+*.exe
+*.obj
+*.log
+*.tlog
+*.lastbuildstate
+*.recipe
+*.ipch
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
