@@ -90,7 +90,13 @@ $$YTM = R(t, T) + Spread_{base} + Spread_{shock} + Liquidity_{penalty}$$
 
 ---
 
-## 6. 빌드 및 실행 (Build)
+## 6. 예시
+
+
+
+---
+
+## 7. 빌드 및 실행 (Build)
 
 C++11 이상의 컴파일러가 필요합니다.
 
@@ -100,3 +106,9 @@ g++ main.cpp market.cpp portfolio.cpp utils.cpp -o bond_sim
 
 # 실행
 ./bond_sim
+
+---
+
+
+
+
